@@ -1,6 +1,6 @@
-<h1><img src="http://i.imgur.com/8RwFbed.png"></h1>
+<h1> elementdoxology <img src="http://i.imgur.com/8RwFbed.png"></h1>
 
-### elementdoxology 
+### 1% 
 
 <h2>About me</h2>
 
