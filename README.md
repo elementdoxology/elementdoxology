@@ -1,4 +1,4 @@
-<h1><img src="http://emojis.slackmojis.com/emojis/images/1487135591/1762/quest_reward.png"></h1>
+<h1><img src="http://i.imgur.com/8RwFbed.png"></h1>
 
 ### Hi there 👋
 
